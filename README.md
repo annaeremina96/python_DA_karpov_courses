@@ -9,4 +9,10 @@ Studied libraries:
 - plotly.express
 - os
 - re
+- requests
+- gspread
+- vk_api
+- urlencode
+- json
+
   
